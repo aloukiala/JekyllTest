@@ -14,4 +14,4 @@ Here is a simple image of the setup. Terraform module sets up SNS and Lambda to 
 
 Currently the module supports only Teams endpoint and is tightly connected CloudWatch metric alarms. I'm looking to extend this module to Slack endpoint and have other input messages as well.
 
-You can now find the terraform module from the [terraform registry](https://registry.terraform.io/modules/aloukiala/alarm-chat-notification/aws/0.1.0?tab=resources). Code is also available in my git [repo](https://github.com/aloukiala/terraform-aws-alarm-chat-notification)
+You can now find the terraform module from the [terraform registry](https://registry.terraform.io/modules/aloukiala/alarm-chat-notification/aws/). Code is also available in my git [repo](https://github.com/aloukiala/terraform-aws-alarm-chat-notification)
